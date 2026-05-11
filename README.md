@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviocastejon&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otaviocastejon&theme=tokyonight"
   />
 </p>
 
