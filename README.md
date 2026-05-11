@@ -1,9 +1,7 @@
 # Hello, I'm João Otávio Castejon, aka Buda! 👋
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otaviocastejon&theme=tokyonight"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviocastejon&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
