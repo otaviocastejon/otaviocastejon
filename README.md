@@ -1,11 +1,11 @@
-## Hello, i'm João Otávio, aka Buda!
-Software Engineer, Full Stack Developer, passionated about Back-end Engineering!
+## Hello, i'm João Otávio Castejon, aka Buda!
 
-<div>
-  <a href="https://github.com/m4dBuda"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4dBuda&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
-</div>
-<div style="display: inline_block"><br>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocastejon&layout=donut&theme=transparent&hide_border=true&langs_count=10"
+    height="250"
+  />
+</p>
 
 </div>
 <br />
