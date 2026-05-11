@@ -1,10 +1,6 @@
 # Hello, I'm João Otávio Castejon, aka Buda! 👋
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviocastejon&theme=tokyonight" />
-</p>
-
-<p align="center">
   <a href="https://instagram.com/mad.buda" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
