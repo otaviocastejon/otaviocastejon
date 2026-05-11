@@ -17,3 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,nestjs,postgres,docker,aws,react,nextjs,rust&theme=dark" />
+</p>
