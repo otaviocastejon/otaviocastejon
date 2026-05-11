@@ -1,7 +1,7 @@
 # Hello, I'm João Otávio Castejon, aka Buda! 👋
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviocastejon&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviocastejon&theme=tokyonight" />
 </p>
 
 <p align="center">
